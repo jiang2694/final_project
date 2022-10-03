@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1
+  time: 2022-08-31 17:58:36
+  duration: 1
+  user: one
+  sitter: one
+  pet: one
+
+two:
+  price: 1
+  time: 2022-08-31 17:58:36
+  duration: 1
+  user: two
+  sitter: two
+  pet: two
